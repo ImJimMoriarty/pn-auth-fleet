@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "aws-xray-sdk-core": "^3.3.6",
-    "sinon": "^14.0.0"
+    "sinon": "^14.0.0",
+    "@babel/traverse": "7.23.2"
   }
 }
